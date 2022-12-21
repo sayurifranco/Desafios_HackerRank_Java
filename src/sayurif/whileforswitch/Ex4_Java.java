@@ -1,4 +1,4 @@
-package sayurif;
+package sayurif.whileforswitch;
 
 // Faça um programa que imprima na tela de 5 a 20 em loop usando while
 

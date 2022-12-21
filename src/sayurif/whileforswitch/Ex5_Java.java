@@ -1,4 +1,4 @@
-package sayurif;
+package sayurif.whileforswitch;
 
 // Faça um programa em que exibe na tela um cardapio de hamburgeres:
 // A saída deverá ser assim:

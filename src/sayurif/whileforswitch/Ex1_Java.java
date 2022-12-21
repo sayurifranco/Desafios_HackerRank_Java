@@ -1,4 +1,4 @@
-package sayurif;
+package sayurif.whileforswitch;
 
 // Faça um programa que leia um numero inteiro do usuario e diga se ele é positivo ou negativo
 
