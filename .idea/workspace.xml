@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db8968ba-6c28-4dde-a23a-95431ddd25b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios_HackerRank_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sayurif/Ex1_Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sayurif/Ex2_Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sayurif/Ex3_Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sayurif/Ex4_Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sayurif/Ex5_Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sayurif/Ex6_Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sayurif/ifelse/Desafio_IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sayurif/ifelse/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sayurif/scanner/Desafio_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sayurif/array/Ex1_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sayurif/array/Ex2_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sayurif/array/Ex3_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sayurif/array/Ex4_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sayurif/array/Ex5_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sayurif/array/Ex6_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +45,17 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vmarc\Documents\git\Desafios_HackerRank_Java\src\java\ifelse" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sayurif.array" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Ex6_Java">
-    <configuration name="Ex2_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sayurif.Ex2_Java" />
+  <component name="RunManager" selected="Application.Ex6_Array">
+    <configuration name="Ex1_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sayurif.array.Ex1_Array" />
       <module name="Desafios_HackerRank_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sayurif.*" />
+          <option name="PATTERN" value="sayurif.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex3_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sayurif.Ex3_Java" />
+    <configuration name="Ex2_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sayurif.array.Ex2_Array" />
       <module name="Desafios_HackerRank_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sayurif.*" />
+          <option name="PATTERN" value="sayurif.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex4_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sayurif.Ex4_Java" />
+    <configuration name="Ex4_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sayurif.array.Ex4_Array" />
       <module name="Desafios_HackerRank_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sayurif.*" />
+          <option name="PATTERN" value="sayurif.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sayurif.Ex5_Java" />
+    <configuration name="Ex5_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sayurif.array.Ex5_Array" />
       <module name="Desafios_HackerRank_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sayurif.*" />
+          <option name="PATTERN" value="sayurif.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sayurif.Ex6_Java" />
+    <configuration name="Ex6_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sayurif.array.Ex6_Array" />
       <module name="Desafios_HackerRank_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sayurif.*" />
+          <option name="PATTERN" value="sayurif.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex6_Java" />
-        <item itemvalue="Application.Ex5_Java" />
-        <item itemvalue="Application.Ex4_Java" />
-        <item itemvalue="Application.Ex3_Java" />
-        <item itemvalue="Application.Ex2_Java" />
+        <item itemvalue="Application.Ex6_Array" />
+        <item itemvalue="Application.Ex4_Array" />
+        <item itemvalue="Application.Ex5_Array" />
+        <item itemvalue="Application.Ex2_Array" />
+        <item itemvalue="Application.Ex1_Array" />
       </list>
     </recent_temporary>
   </component>
