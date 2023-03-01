@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db8968ba-6c28-4dde-a23a-95431ddd25b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sayurif/array/Ex1_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sayurif/array/Ex2_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sayurif/array/Ex3_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sayurif/array/Ex4_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sayurif/array/Ex5_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sayurif/array/Ex6_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
